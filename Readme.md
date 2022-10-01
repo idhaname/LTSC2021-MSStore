@@ -6,7 +6,7 @@
 
 GitHub网页端：右上角`Code --> Download ZIP`。这将下载一个.zip文件到您的电脑上。将它解压并放在一个合适的目录里。
 
-GitHub Desktop：`File --> Clone repository --> URL --> idhaname/KangYuanZiCe-uCode`
+GitHub Desktop：`File --> Clone repository --> URL --> idhaname/LTSC2021-MSStore.git`
 
 git：`git clone https://github.com/idhaname/LTSC2021-MSStore.git`
 
