@@ -1,6 +1,6 @@
 # 适用于Windows 10 LTSC 2021的Microsoft Store
 
-{:toc}
+**【注意】此安装程序仅适用于64位版本的Windows。我们正在开发适用于32位Windows的安装程序。**
 
 ## 下载方法
 
@@ -38,6 +38,6 @@ git：`git clone https://github.com/idhaname/LTSC2021-MSStore.git`
 
 ## 版权信息
 
-COPYRIGHT (c) 2020-2022 Soul-Blaze rod Studios. All Rights Reserved.
+安装程序 版权所有 (c) 2020-2022 灵魂-烈焰之杖工作室。
 
-版权所有 (c) 2020-2022 灵魂-烈焰之杖工作室。保留所有权利。
+部分文件来源于Microsoft。未经Microsoft允许禁止商用。
