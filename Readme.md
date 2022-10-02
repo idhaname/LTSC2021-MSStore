@@ -1,7 +1,5 @@
 # 适用于Windows 10 LTSC 2021的Microsoft Store
 
-**【注意】此安装程序仅适用于64位版本的Windows。我们正在开发适用于32位Windows的安装程序。**
-
 ## 下载方法
 
 GitHub网页端：右上角`Code --> Download ZIP`。这将下载一个.zip文件到您的电脑上。将它解压并放在一个合适的目录里。
